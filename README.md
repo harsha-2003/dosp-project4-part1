@@ -84,12 +84,10 @@ Performance metrics + CSV output | ✅
 ## commands to run
 
 
+### 1. Install dependencies
+gleam deps download
 
-
-
-### 2. Build the project
-
-gleam build
+### 2. run project
 gleam run
 
 ---
