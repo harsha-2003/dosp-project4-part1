@@ -1,5 +1,6 @@
 
-## **DOSP – Distributed Operating Systems Principles**.
+## **DOSP – Distributed Operating Systems Principles---Reddit clone**.
+
 
 The objective of this project is to build a **distributed Reddit-style backend engine** using Gleam and Erlang processes, along with a **client simulator** that stresses the system with realistic workloads, Zipf-distributed subreddit popularity, repost behavior, and live user connection dynamics.
 ## 👥 Team Members
@@ -79,8 +80,14 @@ Periodic online/offline state | ✅
 Performance metrics + CSV output | ✅
 
 ---
+## commands to run
+gleam build
+gleam run
+---
 
 ## output
 <img width="974" height="825" alt="Screenshot 2025-11-02 155913" src="https://github.com/user-attachments/assets/8312479e-93b9-4d27-ab3e-9adb49edd0f9" />
+<img width="711" height="967" alt="Screenshot 2025-11-02 155932" src="https://github.com/user-attachments/assets/90e53e9e-e92e-4f4f-8305-b7189038b221" />
+<img width="772" height="357" alt="Screenshot 2025-11-02 155950" src="https://github.com/user-attachments/assets/e5a37de2-165e-4b7b-a6fe-84b0355e103d" />
 
 
