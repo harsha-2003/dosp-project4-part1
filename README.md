@@ -82,7 +82,7 @@ Performance metrics + CSV output | ✅
 ---
 ## commands to run
 
-gleam build
+gleam build|
 gleam run
 
 ---
