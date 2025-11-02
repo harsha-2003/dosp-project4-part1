@@ -80,9 +80,16 @@ Periodic online/offline state | ✅
 Performance metrics + CSV output | ✅
 
 ---
+
 ## commands to run
 
-gleam build|
+
+
+
+
+### 2. Build the project
+
+gleam build
 gleam run
 
 ---
