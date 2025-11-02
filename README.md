@@ -1,7 +1,5 @@
 
-
-This repository contains **Part-1** of the  Reddit Project for the course  
-**DOSP – Distributed Operating Systems Principles**.
+## **DOSP – Distributed Operating Systems Principles**.
 
 The objective of this project is to build a **distributed Reddit-style backend engine** using Gleam and Erlang processes, along with a **client simulator** that stresses the system with realistic workloads, Zipf-distributed subreddit popularity, repost behavior, and live user connection dynamics.
 ## 👥 Team Members
